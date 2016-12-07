@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown=" 1. Which of the thresholding technique is appropriate when image histogram &#9;has more than two modes&#10;&#10;( )&#9;Single threshold&#10;( )&#9;Double threshold&#10;(x)&#9;Otsu threshold&#10;( )&#9;Result is invariant to the underlying thresholding method&#10;    &#10;    &#10; 2. Single threshold and Otsu threshold can give same output when image &#9;&#9;histogram&#10;&#10;(x)&#9;Bi-modal&#10;( )&#9;Single Modal&#10;( )&#9;More than two modes&#10;( )&#9;Never&#10; &#9; &#10;3. &#9;Increasing the range in mean or variance based region growing results in &#9; larger size regions&#10;&#10;(x)&#9;True&#10;( )&#9;False&#10;( )&#9;Depends on the image content&#10;( )&#9;No effect&#10;    &#10;4. The result of region growing will be affected if an image is corrupted &#9;&#9;with noise&#10;&#10;(x)&#9;True&#10;( )&#9;False&#10;( )&#9;Depends on the image content&#10;( )&#9;Depends on the type of noi">
+<p> 1. Which of the thresholding technique is appropriate when image histogram 	has more than two modes</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Single threshold</choice>
+    <choice correct="false">Double threshold</choice>
+    <choice correct="true">Otsu threshold</choice>
+    <choice correct="false">Result is invariant to the underlying thresholding method</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    </p>
+<p>    </p>
+<p> 2. Single threshold and Otsu threshold can give same output when image 		histogram</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Bi-modal</choice>
+    <choice correct="false">Single Modal</choice>
+    <choice correct="false">More than two modes</choice>
+    <choice correct="false">Never</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> 	 </p>
+<p>3. 	Increasing the range in mean or variance based region growing results in 	 larger size regions</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+    <choice correct="false">Depends on the image content</choice>
+    <choice correct="false">No effect</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    </p>
+<p>4. The result of region growing will be affected if an image is corrupted 		with noise</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+    <choice correct="false">Depends on the image content</choice>
+    <choice correct="false">Depends on the type of noi</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,4 +1,4 @@
-<course cert_html_view_enabled="true" display_name="Image Processing Lab" language="en" start="&quot;2030-01-01T00:00:00+00:00&quot;">
+<course advertised_start="Anytime" cert_html_view_enabled="true" course_image="IIITH-Image Processing.jpg" display_name="Image Processing" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-29T00:00:00+00:00&quot;">
   <chapter url_name="d5b042d6027d4f62b24319403d120cf7"/>
   <chapter url_name="46b792066b9541b6b0a7d53915e76486"/>
   <chapter url_name="d81645ecb2cc45c2acda5b1f6a3bf716"/>
@@ -11,5 +11,6 @@
   <chapter url_name="e875b37c86da4521a568979aff38e379"/>
   <chapter url_name="4b212382cd5647ef8143a89ce3f0923e"/>
   <chapter url_name="ce2b7346a25044fe8bf4c477ce522a49"/>
+  <chapter url_name="d91764260b704640a1eca68a01945a49"/>
   <wiki slug="IIIT-H.cse-19.anytime"/>
 </course>

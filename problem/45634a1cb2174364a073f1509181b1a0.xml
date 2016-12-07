@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown=" 1. To expand the boundary of an object in binary images the appropriate &#9;&#9;operation is&#10;&#10;( )&#9;Erosion&#10;(x)&#9;Dilation&#10;( )&#9;Opening&#10;( )&#9;Closing&#10;    &#10;  2. To eliminate the small holes in the binary images, the approriate &#9;&#9;&#9; operation is&#10;&#10;( )&#9;Erosion&#10;( )&#9;Dilation&#10;( )&#9;Opening&#10;(x)&#9;Closing&#10;    &#10;  3. A binary image consists of disks of sizes 3,7,9,15,17 pixels. We want &#9;&#9; to remove all the disks of size less than 13 pixels. Which &#9;&#9;&#9;&#9; morphological &#9; opeartion perform the task?&#10;&#10;( )&#9;Erosion with structuring element(disk) of size 15&#10;(x)&#9;Erosion with structuring element(disk) of size 13&#10;( )&#9;Dilation with structuring element(disk) of size 15&#10;( )&#9;Dilation with structuring element(disk) of size 13&#10;    &#10; &#10; 4. Which morphological operation is used for smoothing the contour of an &#9;&#9;object in grayscale image&#10;&#10;(x)&#9;Erosion&#10;( )&#9;Dilation&#10;( )&#9;Closing&#10;( )&#9;Opening">
+<p> 1. To expand the boundary of an object in binary images the appropriate 		operation is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Erosion</choice>
+    <choice correct="true">Dilation</choice>
+    <choice correct="false">Opening</choice>
+    <choice correct="false">Closing</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    </p>
+<p>  2. To eliminate the small holes in the binary images, the approriate 			 operation is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Erosion</choice>
+    <choice correct="false">Dilation</choice>
+    <choice correct="false">Opening</choice>
+    <choice correct="true">Closing</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    </p>
+<p>  3. A binary image consists of disks of sizes 3,7,9,15,17 pixels. We want 		 to remove all the disks of size less than 13 pixels. Which 				 morphological 	 opeartion perform the task?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Erosion with structuring element(disk) of size 15</choice>
+    <choice correct="true">Erosion with structuring element(disk) of size 13</choice>
+    <choice correct="false">Dilation with structuring element(disk) of size 15</choice>
+    <choice correct="false">Dilation with structuring element(disk) of size 13</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    </p>
+<p> </p>
+<p> 4. Which morphological operation is used for smoothing the contour of an 		object in grayscale image</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Erosion</choice>
+    <choice correct="false">Dilation</choice>
+    <choice correct="false">Closing</choice>
+    <choice correct="false">Opening</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

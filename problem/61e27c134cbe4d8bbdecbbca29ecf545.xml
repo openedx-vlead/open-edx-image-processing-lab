@@ -1,0 +1,55 @@
+<problem display_name="Multiple Choice" markdown="1. &#9;What is the amount of memory used for storing, 256X256 colored image with pixel depth of 8 bits?&#10;&#10;(x)&#9;192 KB&#10;( )&#9;64 KB&#10;( )&#9;65536 B&#10;( )&#9;96 KB&#10;&#10; 2. Which of the following relation is correct?&#10;&#10;(x)&#9;[R, G, B] = [1,1,1] � [C, M, Y]&#10;( )&#9;[R, G, B] = [1,1,1] � [H, S, V]&#10;( )&#9;[R, G, B] = [1,1,1] � [Y, Cb, Cr]&#10;( )&#9;[R, G, B] = [1,1,1] � [M+Y, C+Y, C+M]&#10;&#10;&#10; 3. Which of the following colour plane is used to change the any specific &#9;&#9;colour is HSI colour model&#10;&#10;(x)&#9;Hue&#10;( )&#9;Saturation&#10;( )&#9;Intensity&#10;( )&#9;None of the Above&#10;    &#10; 4. Given a colour image with a dark appearance, which color model should &#9;&#9;you use so that the processing preserves the colour but brightens the &#9;&#9;image?&#10;&#10;( )&#9;RGB&#10;(x)&#9;HSI&#10;( )&#9;CMY&#10;( )&#9;None of the above&#10;    &#10; 5. A surface coated with cyan pigment is illuminated with white light. &#9;&#9;Choose the correct option.&#10;&#10;(x)&#9;No red light is reflected from the surface.&#10;( )&#9;Only red light is reflected from the surface.&#10;( )&#9;All red and blue lights are reflected from the surface.&#10;( )&#9;No light is reflected from the surface.&#10; &#9; ">
+<p>1. 	What is the amount of memory used for storing, 256X256 colored image with pixel depth of 8 bits?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">192 KB</choice>
+    <choice correct="false">64 KB</choice>
+    <choice correct="false">65536 B</choice>
+    <choice correct="false">96 KB</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> 2. Which of the following relation is correct?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">[R, G, B] = [1,1,1] � [C, M, Y]</choice>
+    <choice correct="false">[R, G, B] = [1,1,1] � [H, S, V]</choice>
+    <choice correct="false">[R, G, B] = [1,1,1] � [Y, Cb, Cr]</choice>
+    <choice correct="false">[R, G, B] = [1,1,1] � [M+Y, C+Y, C+M]</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> 3. Which of the following colour plane is used to change the any specific 		colour is HSI colour model</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Hue</choice>
+    <choice correct="false">Saturation</choice>
+    <choice correct="false">Intensity</choice>
+    <choice correct="false">None of the Above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    </p>
+<p> 4. Given a colour image with a dark appearance, which color model should 		you use so that the processing preserves the colour but brightens the 		image?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">RGB</choice>
+    <choice correct="true">HSI</choice>
+    <choice correct="false">CMY</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    </p>
+<p> 5. A surface coated with cyan pigment is illuminated with white light. 		Choose the correct option.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">No red light is reflected from the surface.</choice>
+    <choice correct="false">Only red light is reflected from the surface.</choice>
+    <choice correct="false">All red and blue lights are reflected from the surface.</choice>
+    <choice correct="false">No light is reflected from the surface.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> 	 </p>
+</problem>
