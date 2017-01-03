@@ -1,0 +1,49 @@
+<problem display_name="Multiple Choice" markdown="1. &#9;Affine transformation are&#10;&#10;( ) Linear transformation&#10;(x)&#9;Quadratic transformation&#10;( )&#9;Higher order transformation&#10;( )&#9;Cannot say&#10;&#10; 2. After performing 45� rotation on input image&#10;&#10;( ) Output Image size is increase&#10;(x)&#9;Output Image size is decrease&#10;( )&#9;No change&#10;( )&#9;Cannot say&#10;&#10; 3. Which interpolation method performs better when we upscale input image &#9;&#9;by factor 4&#10;&#10;(x)&#9;Linear&#10;( )&#9;Bilinear&#10;( )&#9;Bicubic&#10;( )&#9;All&#10;&#10; 4. Which of the ordering pairs leads to the same effect on an image?&#10;&#10;    i) scaling-&gt;rotation-&gt; translation&#10;    ii) scaling -&gt;translation-&gt;rotation&#10;    iii) translation-&gt; rotation-&gt; scaling&#10;    iv) rotation -&gt;scaling -&gt;translation&#10;&#10;&#10;(x)&#9;i and ii&#10;( )&#9;iii and iv&#10;( )&#9;i and iv&#10;( )&#9;None of the above&#10; &#9; &#10; &#9; ">
+<p>1. 	Affine transformation are</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Linear transformation</choice>
+    <choice correct="true">Quadratic transformation</choice>
+    <choice correct="false">Higher order transformation</choice>
+    <choice correct="false">Cannot say</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> 2. After performing 45� rotation on input image</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Output Image size is increase</choice>
+    <choice correct="true">Output Image size is decrease</choice>
+    <choice correct="false">No change</choice>
+    <choice correct="false">Cannot say</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> 3. Which interpolation method performs better when we upscale input image 		by factor 4</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Linear</choice>
+    <choice correct="false">Bilinear</choice>
+    <choice correct="false">Bicubic</choice>
+    <choice correct="false">All</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> 4. Which of the ordering pairs leads to the same effect on an image?</p>
+
+<p>    i) scaling-&gt;rotation-&gt; translation</p>
+<p>    ii) scaling -&gt;translation-&gt;rotation</p>
+<p>    iii) translation-&gt; rotation-&gt; scaling</p>
+<p>    iv) rotation -&gt;scaling -&gt;translation</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">i and ii</choice>
+    <choice correct="false">iii and iv</choice>
+    <choice correct="false">i and iv</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> 	 </p>
+<p> 	 </p>
+</problem>
