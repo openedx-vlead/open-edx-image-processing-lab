@@ -1,43 +1,39 @@
 <problem display_name="Multiple Choice" markdown=" 1. Shortest distance between two points can be obtained using&#10;&#10;( ) City Block Distance&#10;( ) Chess Board&#10;(x) Euclidean Distance&#10;( ) None&#10;&#10; 2. City block distance uses&#10;&#10;(x) 4-connectivity&#10;( )&#9;8-connectivity&#10;( )&#9;Mixed connectivity&#10;( )&#9;None&#10;&#10; 3. Euclidean distance uses&#10;&#10;( ) 4-connectivity&#10;(x)&#9;8-connectivity&#10;( )&#9;Mixed connectivity&#10;( )&#9;None&#10;&#10;&#10; 4. Chess board distance uses&#10;&#10;( ) 4-connectivity&#10;( )&#9;8-connectivity&#10;(x)&#9;Mixed connectivity&#10;( )&#9;None&#10; &#9; ">
-<p> 1. Shortest distance between two points can be obtained using</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">City Block Distance</choice>
-    <choice correct="false">Chess Board</choice>
-    <choice correct="true">Euclidean Distance</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 2. City block distance uses</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">4-connectivity</choice>
-    <choice correct="false">8-connectivity</choice>
-    <choice correct="false">Mixed connectivity</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 3. Euclidean distance uses</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">4-connectivity</choice>
-    <choice correct="true">8-connectivity</choice>
-    <choice correct="false">Mixed connectivity</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 4. Chess board distance uses</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">4-connectivity</choice>
-    <choice correct="false">8-connectivity</choice>
-    <choice correct="true">Mixed connectivity</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 	 </p>
+  <p> 1. Shortest distance between two points can be obtained using</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">City Block Distance</choice>
+      <choice correct="false">Chess Board</choice>
+      <choice correct="true">Euclidean Distance</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 2. City block distance uses</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">4-connectivity</choice>
+      <choice correct="false">8-connectivity</choice>
+      <choice correct="false">Mixed connectivity</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 3. Euclidean distance uses</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">4-connectivity</choice>
+      <choice correct="true">8-connectivity</choice>
+      <choice correct="false">Mixed connectivity</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 4. Chess board distance uses</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">4-connectivity</choice>
+      <choice correct="false">8-connectivity</choice>
+      <choice correct="true">Mixed connectivity</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 	 </p>
 </problem>
