@@ -1,43 +1,38 @@
 <problem display_name="Multiple Choice" markdown=" 1. If f ang g are two images, Fourier transform of f*g is&#10;&#10;(x)&#9;F.G&#10;( )&#9;F+G&#10;( )&#9;F-G&#10;( )&#9;G-F&#10;&#10; 2. F[0,0] is equal to&#10;&#10;(x)&#9;mean to the spatial image&#10;( )&#9;mean of the fourier image&#10;( )&#9;mean of the magnitude spectrum&#10;( )&#9;mean of the phase spectrum&#10;&#10; 3. Basic functions of the fourier transform&#10;&#10;(x)&#9;pure sinusoidal functions&#10;( )&#9;tangential functions&#10;( )&#9;ramp functions&#10;( )&#9;step functions&#10;&#10;4. &#9;If f and g are two images, Fourier transform of f+g is&#10;&#10;( )&#9;F.G&#10;(x)&#9;F+G&#10;( )&#9;F-G&#10;( )&#9;G_F">
-<p> 1. If f ang g are two images, Fourier transform of f*g is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">F.G</choice>
-    <choice correct="false">F+G</choice>
-    <choice correct="false">F-G</choice>
-    <choice correct="false">G-F</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 2. F[0,0] is equal to</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">mean to the spatial image</choice>
-    <choice correct="false">mean of the fourier image</choice>
-    <choice correct="false">mean of the magnitude spectrum</choice>
-    <choice correct="false">mean of the phase spectrum</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 3. Basic functions of the fourier transform</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">pure sinusoidal functions</choice>
-    <choice correct="false">tangential functions</choice>
-    <choice correct="false">ramp functions</choice>
-    <choice correct="false">step functions</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. 	If f and g are two images, Fourier transform of f+g is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">F.G</choice>
-    <choice correct="true">F+G</choice>
-    <choice correct="false">F-G</choice>
-    <choice correct="false">G_F</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> 1. If f ang g are two images, Fourier transform of f*g is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">F.G</choice>
+      <choice correct="false">F+G</choice>
+      <choice correct="false">F-G</choice>
+      <choice correct="false">G-F</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 2. F[0,0] is equal to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">mean to the spatial image</choice>
+      <choice correct="false">mean of the fourier image</choice>
+      <choice correct="false">mean of the magnitude spectrum</choice>
+      <choice correct="false">mean of the phase spectrum</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 3. Basic functions of the fourier transform</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">pure sinusoidal functions</choice>
+      <choice correct="false">tangential functions</choice>
+      <choice correct="false">ramp functions</choice>
+      <choice correct="false">step functions</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. 	If f and g are two images, Fourier transform of f+g is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">F.G</choice>
+      <choice correct="true">F+G</choice>
+      <choice correct="false">F-G</choice>
+      <choice correct="false">G_F</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

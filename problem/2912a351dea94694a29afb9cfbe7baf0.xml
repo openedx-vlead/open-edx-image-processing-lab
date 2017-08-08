@@ -1,55 +1,50 @@
 <problem display_name="Multiple Choice" markdown=" 1. How many bits are required to add three 8 bits gray-scale images without losing precision in the data?&#10;&#10;( ) 9&#10;(x)&#9;10&#10;( )&#9;11&#10;( )&#9;8&#10;&#10;2. &#9;You have added two 8-bit images. To maintain the result in 8 bits which of the following would you perform?&#10;&#10;( )&#9;Scale down the intensity values of two images by half before performing &#9;addition&#10;( )&#9;Set the overflowing pixel value to the maximum&#10;(x)&#9;After performing addition, scale down the output image intensities &#9;&#9;&#9;values by half&#10;( )&#9;All of the above&#10;&#10; 3. After performing division operation, to display the quotient image which operation would you perform?&#10;&#10;( )&#9;Clipping&#10;(x)&#9;Auto Scaling&#10;( )&#9;Both&#10;( )&#9;None&#10;&#10; 4. In a bolt manufacturing plant quality of the bolts produced is of interest. Consider an assembly line of these bolts, and assume an image can be taken of individual bolts coming in the line. One way to assess the quality of a final bolt is to compare the images of the bolt with standard bolt image. In such a scenario, what image arithmetic operation would you perform to identify a faulty bolt?&#10;&#10;( )&#9;Addition&#10;( )&#9;Subtraction&#10;(x)&#9;Division&#10;( )&#9;Multiplication&#10;&#10; 5. To remove the background of a face image, which image arithmetic operation is useful?&#10;&#10;( )&#9;Addition&#10;( )&#9;Subtraction&#10;(x)&#9;Division&#10;( )&#9;Multiplication&#10; &#9; &#10; &#9; &#10; &#9; ">
-<p> 1. How many bits are required to add three 8 bits gray-scale images without losing precision in the data?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">9</choice>
-    <choice correct="true">10</choice>
-    <choice correct="false">11</choice>
-    <choice correct="false">8</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. 	You have added two 8-bit images. To maintain the result in 8 bits which of the following would you perform?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Scale down the intensity values of two images by half before performing 	addition</choice>
-    <choice correct="false">Set the overflowing pixel value to the maximum</choice>
-    <choice correct="true">After performing addition, scale down the output image intensities 			values by half</choice>
-    <choice correct="false">All of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 3. After performing division operation, to display the quotient image which operation would you perform?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Clipping</choice>
-    <choice correct="true">Auto Scaling</choice>
-    <choice correct="false">Both</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 4. In a bolt manufacturing plant quality of the bolts produced is of interest. Consider an assembly line of these bolts, and assume an image can be taken of individual bolts coming in the line. One way to assess the quality of a final bolt is to compare the images of the bolt with standard bolt image. In such a scenario, what image arithmetic operation would you perform to identify a faulty bolt?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Addition</choice>
-    <choice correct="false">Subtraction</choice>
-    <choice correct="true">Division</choice>
-    <choice correct="false">Multiplication</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 5. To remove the background of a face image, which image arithmetic operation is useful?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Addition</choice>
-    <choice correct="false">Subtraction</choice>
-    <choice correct="true">Division</choice>
-    <choice correct="false">Multiplication</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 	 </p>
-<p> 	 </p>
-<p> 	 </p>
+  <p> 1. How many bits are required to add three 8 bits gray-scale images without losing precision in the data?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">9</choice>
+      <choice correct="true">10</choice>
+      <choice correct="false">11</choice>
+      <choice correct="false">8</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. 	You have added two 8-bit images. To maintain the result in 8 bits which of the following would you perform?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Scale down the intensity values of two images by half before performing 	addition</choice>
+      <choice correct="false">Set the overflowing pixel value to the maximum</choice>
+      <choice correct="true">After performing addition, scale down the output image intensities 			values by half</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 3. After performing division operation, to display the quotient image which operation would you perform?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Clipping</choice>
+      <choice correct="true">Auto Scaling</choice>
+      <choice correct="false">Both</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 4. In a bolt manufacturing plant quality of the bolts produced is of interest. Consider an assembly line of these bolts, and assume an image can be taken of individual bolts coming in the line. One way to assess the quality of a final bolt is to compare the images of the bolt with standard bolt image. In such a scenario, what image arithmetic operation would you perform to identify a faulty bolt?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Addition</choice>
+      <choice correct="false">Subtraction</choice>
+      <choice correct="true">Division</choice>
+      <choice correct="false">Multiplication</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 5. To remove the background of a face image, which image arithmetic operation is useful?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Addition</choice>
+      <choice correct="false">Subtraction</choice>
+      <choice correct="true">Division</choice>
+      <choice correct="false">Multiplication</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 	 </p>
+  <p> 	 </p>
+  <p> 	 </p>
 </problem>

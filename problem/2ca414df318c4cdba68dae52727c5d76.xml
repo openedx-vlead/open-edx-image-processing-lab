@@ -1,44 +1,39 @@
 <problem display_name="Multiple Choice" markdown=" 1. After performing a filtering operation, the size of the input and output images will&#10;&#10;(x)&#9;Remain the same&#10;( )&#9;Be different&#10;( )&#9;Depends on filter type&#10;( )&#9;Cannot say &#10;&#10; 2. If the size of an averaging filter (window) is increased the processed &#9;&#9;image will be&#10;&#10;( )&#9;Sharper&#10;(x)&#9;Smoother&#10;( )&#9;Brighter&#10;( )&#9;Darker&#10; &#9;&#10; 3. Which of the following filter is non-linear filter&#10;&#10;( )&#9;Gaussian filter&#10;( )&#9;Average filter&#10;(x)&#9;Median filter&#10;( )&#9;Triangular filter &#10;&#10; 4. Key characteristic of low pass filter is&#10;&#10;( )&#9;All filter coefficients are greater than zero&#10;( )&#9;All filter coefficients are less than zero&#10;( )&#9;Some filter coefficients are greater than zero&#10;(x)&#9;Some filter coefficients are less than zero">
-<p> 1. After performing a filtering operation, the size of the input and output images will</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Remain the same</choice>
-    <choice correct="false">Be different</choice>
-    <choice correct="false">Depends on filter type</choice>
-    <choice correct="false">Cannot say</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 2. If the size of an averaging filter (window) is increased the processed 		image will be</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Sharper</choice>
-    <choice correct="true">Smoother</choice>
-    <choice correct="false">Brighter</choice>
-    <choice correct="false">Darker</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 	</p>
-<p> 3. Which of the following filter is non-linear filter</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Gaussian filter</choice>
-    <choice correct="false">Average filter</choice>
-    <choice correct="true">Median filter</choice>
-    <choice correct="false">Triangular filter</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> 4. Key characteristic of low pass filter is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">All filter coefficients are greater than zero</choice>
-    <choice correct="false">All filter coefficients are less than zero</choice>
-    <choice correct="false">Some filter coefficients are greater than zero</choice>
-    <choice correct="true">Some filter coefficients are less than zero</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> 1. After performing a filtering operation, the size of the input and output images will</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Remain the same</choice>
+      <choice correct="false">Be different</choice>
+      <choice correct="false">Depends on filter type</choice>
+      <choice correct="false">Cannot say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 2. If the size of an averaging filter (window) is increased the processed 		image will be</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Sharper</choice>
+      <choice correct="true">Smoother</choice>
+      <choice correct="false">Brighter</choice>
+      <choice correct="false">Darker</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 	</p>
+  <p> 3. Which of the following filter is non-linear filter</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Gaussian filter</choice>
+      <choice correct="false">Average filter</choice>
+      <choice correct="true">Median filter</choice>
+      <choice correct="false">Triangular filter</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> 4. Key characteristic of low pass filter is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">All filter coefficients are greater than zero</choice>
+      <choice correct="false">All filter coefficients are less than zero</choice>
+      <choice correct="false">Some filter coefficients are greater than zero</choice>
+      <choice correct="true">Some filter coefficients are less than zero</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
