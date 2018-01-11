@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CSE19", 
+            "course": "cse19", 
             "name": "IIITH-Image_Processing.jpg", 
-            "org": "IIIT-Hyderabad", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIITH-Image Processing.jpg", 
-        "filename": "asset-v1:IIIT-Hyderabad+CSE19+Anytime+type@asset+block@IIITH-Image_Processing.jpg", 
+        "filename": "asset-v1:Virtual-Labs+cse19+Anytime+type@asset+block@IIITH-Image_Processing.jpg", 
         "import_path": "IIITH-Image Processing.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-Hyderabad", 
-            "CSE19", 
+            "Virtual-Labs", 
+            "cse19", 
             "thumbnail", 
             "IIITH-Image_Processing.jpg", 
             null
